@@ -5,16 +5,16 @@ All of these are packages I've removed safely from my own X50 5G but everything 
 ```adb shell```
 
 ```
-    pm uninstall -k --user 0 com.google.android.apps.nbu.files #Files by Google
-    pm uninstall -k --user 0 com.google.android.apps.maps #Google Maps
-    pm uninstall -k --user 0 com.coloros.filemanager #Stock File Manager
-    pm uninstall -k --user 0 com.coloros.clonephone #ClonePhone app
+    pm uninstall -k --user 0 com.google.android.apps.nbu.files
+    pm uninstall -k --user 0 com.google.android.apps.maps
+    pm uninstall -k --user 0 com.coloros.filemanager
+    pm uninstall -k --user 0 com.coloros.clonephone
     pm uninstall -k --user 0 com.coloros.weather2
-    pm uninstall -k --user 0 com.coloros.weather.service #Stock weather
-    pm uninstall -k --user 0 com.coloros.widget.smallweather #Stock weather
-    pm uninstall -k --user 0 com.coloros.backuprestore #More Clone Phone stuff
-    pm uninstall -k --user 0 com.coloros.alarmclock #Stock clock app
-    pm uninstall -k --user 0 com.oppo.music #Stock music app
+    pm uninstall -k --user 0 com.coloros.weather.service
+    pm uninstall -k --user 0 com.coloros.widget.smallweather
+    pm uninstall -k --user 0 com.coloros.backuprestore
+    pm uninstall -k --user 0 com.coloros.alarmclock
+    pm uninstall -k --user 0 com.oppo.music
     pm uninstall -k --user 0 com.coloros.oppomultiapp
     pm uninstall -k --user 0
     pm uninstall -k --user 0
