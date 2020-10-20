@@ -28,6 +28,6 @@ You can't do this over Wi-Fi on the X50 5G (at least not yet) because that featu
 
 Just follow this guide if you're new to using ADB. It's very detailed and easy to follow.
 
-Once you've followed the guide above to get connected to your phone, stay in the terminal and enter ~~~adb shell~~~ then flick over to the apps list to start removing bloat.
+Once you've followed the guide above to get connected to your phone, stay in the terminal and enter _adb shell_ then flick over to the apps list to start removing bloat.
 
 [**Realme x50 5G debloat packages list**](https://github.com/sh1nyfox/realme-x50-debloating/blob/main/debloat-packages-list.md)
