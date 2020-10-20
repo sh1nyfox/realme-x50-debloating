@@ -8,4 +8,8 @@ In this repo there are (will be) two text files detailing what you need to know.
 
 It should also be said that this is on the UK version of the phone, not all of the junk will be installed on all of the phones, likewise the UK version won't have a bunch of things that you'll find elsewhere in the world (theme store comes to mind.)
 
-It's a fairly conservative list for now, I'm still researching what else could be thrown in the bin. 
+It's a fairly conservative list for now, I'm still researching what else could be thrown in the bin. Will update as I learn more.
+
+[**Installing and using ADB**](https://github.com/sh1nyfox/realme-x50-debloating/blob/main/installing-adb.md)
+
+[**Realme x50 5G debloat packages list**](https://github.com/sh1nyfox/realme-x50-debloating/blob/main/debloat-packages-list.md)
