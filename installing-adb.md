@@ -24,10 +24,10 @@ You can't do this over Wi-Fi on the X50 5G (at least not yet) because that featu
 
 ### Handy complete guide
 
-[How to set up and install ADB on Windows, Mac and Linux - XDA Developers](https://www.xda-developers.com/install-adb-windows-macos-linux/)
+[**How to set up and install ADB on Windows, Mac and Linux - XDA Developers**](https://www.xda-developers.com/install-adb-windows-macos-linux/)
 
 Just follow this guide if you're new to using ADB. It's very detailed and easy to follow.
 
 Once you've followed the guide above to get connected to your phone, stay in the terminal and enter ~~~adb shell~~~ then flick over to the apps list to start removing bloat.
 
-[Realme x50 5G debloat packages list](https://github.com/sh1nyfox/realme-x50-debloating/blob/main/debloat-packages-list.md)
+[**Realme x50 5G debloat packages list**](https://github.com/sh1nyfox/realme-x50-debloating/blob/main/debloat-packages-list.md)
