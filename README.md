@@ -10,6 +10,10 @@ It should also be said that this is on the UK version of the phone, not all of t
 
 It's a fairly conservative list for now, I'm still researching what else could be thrown in the bin. Will update as I learn more.
 
+I've also now added a batch file for one click removal of all the packages on my list. Download and run it if you want the full list, if not, edit the file in a text editor first and remove the parts you want to keep on your phone. I haven't actually tested the batch file yet, so for now it's definitely used at your own risk.
+
 [**Installing and using ADB**](https://github.com/sh1nyfox/realme-x50-debloating/blob/main/installing-adb.md)
 
-[**Realme x50 5G debloat packages list**](https://github.com/sh1nyfox/realme-x50-debloating/blob/main/debloat-packages-list.md)
+[**Realme X50 5G debloat packages list**](https://github.com/sh1nyfox/realme-x50-debloating/blob/main/debloat-packages-list.md)
+
+[**Realme X50 5G debloat script**](https://github.com/sh1nyfox/realme-x50-debloating/blob/main/debloat-script.bat)
