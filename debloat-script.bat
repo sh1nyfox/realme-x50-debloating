@@ -40,5 +40,9 @@ ECHO ColorOS Video
 adb shell pm uninstall -k --user 0 com.coloros.video
 ECHO ColorOS Floating Assistant
 adb shell pm uninstall -k --user 0 com.coloros.floatassistant
+ECHO Facebook Junk
+adb shell pm uninstall -k --user 0 com.facebook.appmanager
+adb shell pm uninstall -k --user 0 com.facebook.system
+adb shell pm uninstall -k --user 0 com.facebook.services
 
-Pause
+PAUSE
