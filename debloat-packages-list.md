@@ -37,4 +37,4 @@ Oh, and Facebook stuff. Because you can uninstall the Facebook app from the phon
     pm uninstall -k --user 0 com.facebook.services
 ```
 
-If I discover anything has broken or more stuff I can remove I'll be updating this list accordingly.
+Also now a [batch file](https://github.com/sh1nyfox/realme-x50-debloating/blob/main/debloat-script.bat) for one click uninstall of all this stuff.
